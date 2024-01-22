@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋! My name is Bozhidar Genchev</h1>
-<h3 align="center">I am a current student at SoftUni. My passion is JavaScript full stack development!</h3>
+<h3 align="center">I am a passionate FullStack Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolevgenchev&label=Profile%20views&color=0e75b6&style=flat" alt="kolevgenchev" /> </p>
 
