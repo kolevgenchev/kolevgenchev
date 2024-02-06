@@ -21,7 +21,8 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <!-- New language icons -->
 <!-- Corrected C# icon -->
-<a href="https://dotnet.microsoft.com/learn/csharp" target="_blank" rel="noreferrer"> <img src="URL_TO_CSHARP_ICON" alt="C#" width="40" height="40"/> </a>
+<!-- C# icon using the provided URL -->
+<a href="https://dotnet.microsoft.com/learn/csharp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C#" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 </p>
